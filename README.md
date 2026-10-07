@@ -129,7 +129,7 @@ jupyter
 ## Auteur
 
 **Molka Jebali**
-Mastère Professionnel Big Data — IHEC Carthage
+Esprit
 
 ---
 
